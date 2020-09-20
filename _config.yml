@@ -1,9 +1,9 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
-show_downloads: true
+title: Sambit's Blog
+description: When you cannot go back, you have to worry only about the best way of moving forward.
+show_downloads: false
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/sambit-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://sambit-giri.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
@@ -16,10 +16,10 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: sambit-giri
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: sam_giri
 
 plugins:
   - jekyll-target-blank
