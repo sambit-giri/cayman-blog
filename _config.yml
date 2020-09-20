@@ -1,5 +1,5 @@
 title: Sambit's Blog
-description: When you cannot go back, you have to worry only about the best way of moving forward.
+description: > When you cannot go back, you have to worry only about the best way of moving forward.
 show_downloads: false
 
 baseurl: "/sambit-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
